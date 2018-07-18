@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777;
-    background: url("../images/mountain-background.jpeg");
+    background: url("../images/black-background.jpg");
     background-size: cover;
   }
   
@@ -36,7 +36,7 @@ body {
   h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #b75858;
+    color: #7186e6;
   }
   
   h1 {
@@ -60,7 +60,7 @@ body {
     margin: 0 0 30px;
     overflow: auto;
     color: #fff;
-    background: #fff;
+    background: #666;
     border-bottom: 2px solid #ccc;
   }
   
@@ -75,7 +75,7 @@ body {
     color: #fff;
     text-align: center;
     text-decoration: none;
-    background: #b75858;
+    background: #7286e6;
   }
   
   nav {
@@ -88,7 +88,7 @@ body {
     padding-left: 15px;
     margin-left: 15px;
     line-height: 18px;
-    color: #999;
+    color: #d2d2e0;
     text-decoration: none;
     border-left: 1px solid #efefef;
   }
@@ -107,7 +107,7 @@ body {
     color: #ccc;
     text-align: center;
     background: #666;
-    border-top: 8px solid #b75858;
+    border-top: 8px solid #7186e6;
     height: 50px;
   }
   
@@ -131,7 +131,7 @@ body {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    background: #fff;
+    background: #d3d2e0;
     border: 1px solid #ddd;
   }
   
@@ -165,7 +165,7 @@ body {
     line-height: 30px;
     color: #fff;
     text-align: center;
-    background: #b75858;
+    background: #7186e6;
     border-bottom: 0;
   }
   
