@@ -177,6 +177,14 @@ body {
     margin-top: 10px;
     margin-right: 25px;
   }
+
+  .card {
+    position: absolute;
+    float: right;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+  }
   
   /* contact page */
   
