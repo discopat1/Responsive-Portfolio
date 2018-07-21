@@ -178,12 +178,13 @@ body {
     margin-right: 25px;
   }
 
-  .card {
-    position: absolute;
-    float: right;
-    width: 274px;
-    margin: 20px 0 25px;
-    overflow: auto;
+  #card {
+    border: 
+  }
+
+  .footer-a {
+    font-size: 120%;
+    color: #051d3c;
   }
   
   /* contact page */
