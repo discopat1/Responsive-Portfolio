@@ -3,8 +3,11 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777;
-    background: url("../images/starry-sky-bg.jpeg");
+    /* background: url("../images/starry-sky-bg.jpeg"); */
     background-size: cover;
+    background-color: #7186e6;
+    background-image: url("https://www.transparenttextures.com/patterns/exclusive-paper.png");
+
   }
   
   * {
@@ -178,9 +181,7 @@ body {
     margin-right: 25px;
   }
 
-  #card {
-    border: 
-  }
+
 
   .footer-a {
     font-size: 120%;
